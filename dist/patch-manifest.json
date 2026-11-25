@@ -1,0 +1,18 @@
+{
+  "name": "battle-skin-090",
+  "targetClientVersion": "2.59.0.92",
+  "description": "对局/机库涂装修复，仅替换 gui.vromfs.bin；不含 exe 补丁。",
+  "files": [
+    {
+      "target": "client/gui.vromfs.bin",
+      "source": "gui.vromfs.bin",
+      "sha256": "6e8ffcf24ebba78d427760099d016b1b1521b1a8d0d676763ac6c9693ed520e7",
+      "acceptOriginalSHA256": [
+        "55fa8771dd1520160f6e98590e2890a3dd590505274f05a2c6abda6c96fe3009"
+      ],
+      "size": 10427696
+    }
+  ],
+  "expectedAcesSHA256": "e5b7ca9767a8e9ede97da213202c334b2e70ceacca7a996295607a1c38b79eeb",
+  "expectedClientVersion": "2.59.0.92"
+}
