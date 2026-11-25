@@ -1,0 +1,21 @@
+# 构建产物
+build/
+dist/files/
+*.vromfs.bin
+*.zip
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# 编辑器 / 系统
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
+
+# 本地临时
+*.log
+*.clog
+tmp/
